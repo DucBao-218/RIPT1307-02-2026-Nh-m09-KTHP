@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Form, Input, Button, Card, Tabs, message } from 'antd';
+import { Form, Input, Button, Card, Tabs, message, Select } from 'antd';
 import { UserOutlined, LockOutlined, MailOutlined, IdcardOutlined } from '@ant-design/icons';
 import { useModel, history } from '@umijs/max';
 import axios from '@/utils/axios';
@@ -33,7 +33,7 @@ const Login: React.FC = () => {
   const onRegister = async (values: any) => {
     setLoading(true);
     try {
-      await axios.post('/auth/register', { ...values, role: 'STUDENT' });
+      await axios.post('/auth/register', values);
       message.success('Đăng ký thành công, vui lòng đăng nhập!');
       setActiveTab('login');
     } catch (error) {
@@ -72,6 +72,12 @@ const Login: React.FC = () => {
               </Form.Item>
               <Form.Item name="password" rules={[{ required: true, message: 'Vui lòng nhập mật khẩu!' }]}>
                 <Input.Password prefix={<LockOutlined />} placeholder="Mật khẩu" />
+              </Form.Item>
+              <Form.Item name="role" initialValue="STUDENT" rules={[{ required: true }]}>
+                <Select placeholder="Chọn vai trò">
+                  <Select.Option value="STUDENT">Sinh Viên</Select.Option>
+                  <Select.Option value="ADMIN">Quản Trị Viên</Select.Option>
+                </Select>
               </Form.Item>
               <Form.Item>
                 <Button type="primary" htmlType="submit" block loading={loading}>

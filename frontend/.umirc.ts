@@ -7,7 +7,15 @@ export default defineConfig({
   initialState: {},
   request: {},
   layout: {
-    title: 'Equipment System',
+    title: 'Hệ Thống Mượn Đồ',
+    locale: false,
+  },
+  locale: {
+    default: 'vi-VN',
+    antd: true,
+    title: false,
+    baseNavigator: true,
+    baseSeparator: '-',
   },
   routes: [
     {

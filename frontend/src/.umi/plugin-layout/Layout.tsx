@@ -18,7 +18,7 @@ import Exception from './Exception';
 import { getRightRenderContent } from './rightRender';
 import { useModel } from '@@/plugin-model';
 import { useAccessMarkedRoutes } from '@@/plugin-access';
-
+import { useIntl } from '@@/plugin-locale';
 
 // 过滤出需要显示的路由, 这里的filterFn 指 不希望显示的层级
 const filterRoutes = (routes: IRoute[], filterFn: (route: IRoute) => boolean) => {
@@ -80,9 +80,10 @@ export default (props: any) => {
   };
   const { initialState, loading, setInitialState } = initialInfo;
   const userConfig = {
-  "title": "Equipment System"
+  "title": "Hệ Thống Mượn Đồ",
+  "locale": false
 };
-const formatMessage = undefined;
+const { formatMessage } = useIntl();
   const runtimeConfig = pluginManager.applyPlugins({
     key: 'layout',
     type: 'modify',

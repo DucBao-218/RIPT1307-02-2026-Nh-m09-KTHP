@@ -6,6 +6,7 @@ export { defineApp } from './core/defineApp'
 export type { RuntimeConfig } from './core/defineApp'
 // plugins
 export { Access, useAccess, useAccessMarkedRoutes } from 'E:/RIPT1307-02-2026-Nhom9-KTHP/frontend/src/.umi/plugin-access';
+export { addLocale, setLocale, getLocale, getIntl, useIntl, injectIntl, formatMessage, FormattedMessage, getAllLocales, FormattedDate, FormattedDateParts, FormattedDisplayName, FormattedHTMLMessage, FormattedList, FormattedNumber, FormattedNumberParts, FormattedPlural, FormattedRelativeTime, FormattedTime, FormattedTimeParts, IntlProvider, RawIntlProvider, SelectLang } from 'E:/RIPT1307-02-2026-Nhom9-KTHP/frontend/src/.umi/plugin-locale';
 export { Provider, useModel } from 'E:/RIPT1307-02-2026-Nhom9-KTHP/frontend/src/.umi/plugin-model';
 export { useRequest, UseRequestProvider, request, getRequestInstance } from 'E:/RIPT1307-02-2026-Nhom9-KTHP/frontend/src/.umi/plugin-request';
 // plugins types.d.ts

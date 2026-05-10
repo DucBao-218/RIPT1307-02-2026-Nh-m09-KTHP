@@ -34,7 +34,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 35
       },
       "enableBy": "register"
     },
@@ -47,7 +47,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 20
+        "register": 98
       },
       "enableBy": "register"
     },
@@ -60,7 +60,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 9
+        "register": 58
       },
       "enableBy": "register"
     },
@@ -77,7 +77,7 @@
             0
           ]
         },
-        "register": 9
+        "register": 61
       },
       "enableBy": "register"
     },
@@ -91,10 +91,10 @@
       "time": {
         "hooks": {
           "onStart": [
-            4
+            3
           ]
         },
-        "register": 9
+        "register": 90
       },
       "enableBy": "register"
     },
@@ -108,10 +108,10 @@
       "time": {
         "hooks": {
           "modifyRoutes": [
-            1
+            0
           ]
         },
-        "register": 2
+        "register": 36
       },
       "enableBy": "register"
     },
@@ -124,7 +124,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 51
       },
       "enableBy": "register"
     },
@@ -138,10 +138,10 @@
       "time": {
         "hooks": {
           "modifyAppData": [
-            54
+            57
           ]
         },
-        "register": 48
+        "register": 364
       },
       "enableBy": "register"
     },
@@ -154,7 +154,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 14
       },
       "enableBy": "register"
     },
@@ -171,10 +171,10 @@
             0
           ],
           "onCheck": [
-            1
+            0
           ]
         },
-        "register": 3
+        "register": 17
       },
       "enableBy": "register"
     },
@@ -191,7 +191,7 @@
             0
           ]
         },
-        "register": 3
+        "register": 16
       },
       "enableBy": "register"
     },
@@ -204,7 +204,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 17
       },
       "enableBy": "config"
     },
@@ -221,7 +221,7 @@
             0
           ]
         },
-        "register": 27
+        "register": 119
       },
       "enableBy": "register"
     },
@@ -421,7 +421,7 @@
       "enableBy": "register",
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       }
     },
     "virtual: config-conventionLayout": {
@@ -930,7 +930,7 @@
       "enableBy": "register",
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       }
     },
     "virtual: config-cssMinifier": {
@@ -1073,7 +1073,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 15
       },
       "enableBy": "config"
     },
@@ -1090,7 +1090,7 @@
             0
           ]
         },
-        "register": 4
+        "register": 18
       },
       "enableBy": "register"
     },
@@ -1103,7 +1103,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 17
       },
       "enableBy": "register"
     },
@@ -1116,7 +1116,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 207
+        "register": 887
       },
       "enableBy": "register"
     },
@@ -1129,7 +1129,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 142
+        "register": 1218
       },
       "enableBy": "config"
     },
@@ -1142,7 +1142,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 50
+        "register": 314
       },
       "enableBy": "config"
     },
@@ -1159,7 +1159,7 @@
             0
           ]
         },
-        "register": 2
+        "register": 19
       },
       "enableBy": "register"
     },
@@ -1172,7 +1172,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 16
       },
       "enableBy": "register"
     },
@@ -1185,7 +1185,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 5
+        "register": 24
       },
       "enableBy": "config"
     },
@@ -1199,10 +1199,10 @@
       "time": {
         "hooks": {
           "onStart": [
-            4
+            1
           ]
         },
-        "register": 72
+        "register": 377
       }
     },
     "./node_modules/@umijs/preset-umi/dist/features/mpa/mpa": {
@@ -1214,7 +1214,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 4
+        "register": 27
       },
       "enableBy": "config"
     },
@@ -1227,7 +1227,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 37
       }
     },
     "./node_modules/@umijs/preset-umi/dist/features/overrides/overrides": {
@@ -1239,7 +1239,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "register"
     },
@@ -1252,7 +1252,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 56
       },
       "enableBy": "config"
     },
@@ -1266,10 +1266,10 @@
       "time": {
         "hooks": {
           "modifyConfig": [
-            1
+            15
           ]
         },
-        "register": 7
+        "register": 70
       }
     },
     "./node_modules/@umijs/preset-umi/dist/features/polyfill/publicPathPolyfill": {
@@ -1281,7 +1281,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 12
       },
       "enableBy": "register"
     },
@@ -1294,7 +1294,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 6
+        "register": 19
       },
       "enableBy": "register"
     },
@@ -1307,7 +1307,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 14
       },
       "enableBy": "config"
     },
@@ -1320,7 +1320,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 15
       },
       "enableBy": "config"
     },
@@ -1333,7 +1333,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 18
       },
       "enableBy": "register"
     },
@@ -1346,7 +1346,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 16
+        "register": 73
       },
       "enableBy": "register"
     },
@@ -1359,7 +1359,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 4
+        "register": 31
       },
       "enableBy": "config"
     },
@@ -1372,7 +1372,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 13
       }
     },
     "./node_modules/@umijs/preset-umi/dist/features/ssr/ssr": {
@@ -1384,7 +1384,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 10
+        "register": 33
       },
       "enableBy": "config"
     },
@@ -1397,7 +1397,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 7
+        "register": 53
       },
       "enableBy": "register"
     },
@@ -1410,7 +1410,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 11
+        "register": 47
       },
       "enableBy": "register"
     },
@@ -1423,7 +1423,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 6
+        "register": 91
       },
       "enableBy": "config"
     },
@@ -1436,7 +1436,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 15
       },
       "enableBy": "config"
     },
@@ -1449,7 +1449,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 14
+        "register": 109
       }
     },
     "./node_modules/@umijs/preset-umi/dist/features/monorepo/redirect": {
@@ -1461,7 +1461,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 47
+        "register": 1613
       },
       "enableBy": "config"
     },
@@ -1474,7 +1474,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 48
       }
     },
     "./node_modules/@umijs/preset-umi/dist/features/clickToComponent/clickToComponent": {
@@ -1486,7 +1486,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 49
       },
       "enableBy": "config"
     },
@@ -1499,7 +1499,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 49
       },
       "enableBy": "config"
     },
@@ -1512,7 +1512,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 35
       },
       "enableBy": "config"
     },
@@ -1525,7 +1525,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 70
       }
     },
     "./node_modules/@umijs/preset-umi/dist/features/swc/swc": {
@@ -1541,7 +1541,7 @@
             0
           ]
         },
-        "register": 1
+        "register": 18
       },
       "enableBy": "register"
     },
@@ -1554,7 +1554,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 7
+        "register": 113
       }
     },
     "./node_modules/@umijs/preset-umi/dist/features/mako/mako": {
@@ -1566,7 +1566,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 20
       },
       "enableBy": "config"
     },
@@ -1579,7 +1579,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 20
       }
     },
     "./node_modules/@umijs/preset-umi/dist/features/hmrGuardian/hmrGuardian": {
@@ -1591,7 +1591,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 5
+        "register": 34
       }
     },
     "./node_modules/@umijs/preset-umi/dist/features/routePreloadOnLoad/routePreloadOnLoad": {
@@ -1603,7 +1603,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 58
+        "register": 377
       }
     },
     "./node_modules/@umijs/preset-umi/dist/features/forget/forget": {
@@ -1615,7 +1615,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 4
+        "register": 45
       },
       "enableBy": "config"
     },
@@ -1628,7 +1628,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 30
       },
       "enableBy": "register"
     },
@@ -1641,7 +1641,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 29
+        "register": 92
       },
       "enableBy": "register"
     },
@@ -1654,7 +1654,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 79
+        "register": 296
       },
       "enableBy": "register"
     },
@@ -1668,10 +1668,10 @@
       "time": {
         "hooks": {
           "modifyAppData": [
-            30
+            16
           ]
         },
-        "register": 83
+        "register": 1216
       }
     },
     "./node_modules/@umijs/preset-umi/dist/commands/help": {
@@ -1683,7 +1683,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 16
       },
       "enableBy": "register"
     },
@@ -1696,7 +1696,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 17
       },
       "enableBy": "register"
     },
@@ -1709,7 +1709,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 12
       },
       "enableBy": "register"
     },
@@ -1722,7 +1722,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 20
       },
       "enableBy": "register"
     },
@@ -1735,7 +1735,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 13
       },
       "enableBy": "register"
     },
@@ -1748,7 +1748,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 5
+        "register": 41
       },
       "enableBy": "register"
     },
@@ -1761,7 +1761,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 15
       },
       "enableBy": "register"
     },
@@ -1774,7 +1774,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 15
       },
       "enableBy": "register"
     },
@@ -1787,7 +1787,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 17
       },
       "enableBy": "register"
     },
@@ -1800,7 +1800,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 14
       },
       "enableBy": "register"
     },
@@ -1813,7 +1813,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 14
       },
       "enableBy": "register"
     },
@@ -1826,7 +1826,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 17
       },
       "enableBy": "register"
     },
@@ -1839,7 +1839,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 13
       },
       "enableBy": "register"
     },
@@ -1852,7 +1852,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 15
       },
       "enableBy": "register"
     },
@@ -1865,7 +1865,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 20
       },
       "enableBy": "register"
     },
@@ -1878,7 +1878,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 43
       },
       "enableBy": "register"
     },
@@ -1891,7 +1891,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 42
       },
       "enableBy": "register"
     },
@@ -1904,7 +1904,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 84
       },
       "enableBy": "register"
     },
@@ -1917,7 +1917,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 48
+        "register": 241
       },
       "enableBy": "register"
     },
@@ -1930,7 +1930,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 45
       },
       "enableBy": "register"
     },
@@ -1943,7 +1943,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 7
+        "register": 54
       },
       "enableBy": "register"
     },
@@ -1956,7 +1956,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 4
+        "register": 34
       },
       "enableBy": "config"
     },
@@ -1971,7 +1971,7 @@
       },
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 21
       }
     },
     "./node_modules/@umijs/plugins/dist/antd": {
@@ -1984,7 +1984,7 @@
       "time": {
         "hooks": {
           "modifyConfig": [
-            8
+            24
           ],
           "modifyAppData": [
             0
@@ -1993,7 +1993,7 @@
             0
           ]
         },
-        "register": 16
+        "register": 100
       }
     },
     "./node_modules/@umijs/plugins/dist/dva": {
@@ -2005,7 +2005,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 12
+        "register": 55
       },
       "enableBy": "config"
     },
@@ -2018,7 +2018,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 15
       },
       "enableBy": "config"
     },
@@ -2040,10 +2040,10 @@
             0
           ],
           "modifyAppData": [
-            1
+            0
           ]
         },
-        "register": 10
+        "register": 31
       },
       "enableBy": "config"
     },
@@ -2056,7 +2056,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 7
+        "register": 44
       },
       "enableBy": "config"
     },
@@ -2069,7 +2069,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 45
       },
       "enableBy": "config"
     },
@@ -2082,7 +2082,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 19
       },
       "enableBy": "config"
     },
@@ -2095,7 +2095,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 15
       },
       "enableBy": "config"
     },
@@ -2108,7 +2108,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 14
       },
       "enableBy": "register"
     },
@@ -2121,7 +2121,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 33
       }
     },
     "./node_modules/@umijs/plugins/dist/qiankun/slave": {
@@ -2133,7 +2133,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 21
       }
     },
     "./node_modules/@umijs/plugins/dist/react-query": {
@@ -2145,7 +2145,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 17
       },
       "enableBy": "config"
     },
@@ -2158,7 +2158,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 15
       },
       "enableBy": "config"
     },
@@ -2171,7 +2171,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 27
       },
       "enableBy": "config"
     },
@@ -2184,7 +2184,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 17
       },
       "enableBy": "config"
     },
@@ -2197,7 +2197,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 39
       },
       "enableBy": "config"
     },
@@ -2214,7 +2214,7 @@
             0
           ]
         },
-        "register": 1
+        "register": 14
       },
       "enableBy": "register"
     },
@@ -2231,7 +2231,7 @@
             0
           ]
         },
-        "register": 1
+        "register": 12
       },
       "enableBy": "register"
     },
@@ -2248,7 +2248,7 @@
             0
           ]
         },
-        "register": 1
+        "register": 12
       },
       "enableBy": "register"
     },
@@ -2261,7 +2261,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 15
       },
       "enableBy": "register"
     }
@@ -2278,7 +2278,15 @@
     "initialState": {},
     "request": {},
     "layout": {
-      "title": "Equipment System"
+      "title": "Hệ Thống Mượn Đồ",
+      "locale": false
+    },
+    "locale": {
+      "default": "vi-VN",
+      "antd": true,
+      "title": false,
+      "baseNavigator": true,
+      "baseSeparator": "-"
     },
     "routes": [
       {
@@ -2368,7 +2376,15 @@
     "initialState": {},
     "request": {},
     "layout": {
-      "title": "Equipment System"
+      "title": "Hệ Thống Mượn Đồ",
+      "locale": false
+    },
+    "locale": {
+      "default": "vi-VN",
+      "antd": true,
+      "title": false,
+      "baseNavigator": true,
+      "baseSeparator": "-"
     },
     "routes": [
       {
@@ -3344,7 +3360,7 @@
       "file": "@/pages/Login/index.tsx",
       "id": "1",
       "absPath": "/login",
-      "__content": "import React, { useState } from 'react';\nimport { Form, Input, Button, Card, Tabs, message } from 'antd';\nimport { UserOutlined, LockOutlined, MailOutlined, IdcardOutlined } from '@ant-design/icons';\nimport { useModel, history } from '@umijs/max';\nimport axios from '@/utils/axios';\n\nconst Login: React.FC = () => {\n  const [activeTab, setActiveTab] = useState('login');\n  const [loading, setLoading] = useState(false);\n  const { setInitialState } = useModel('@@initialState');\n\n  const onLogin = async (values: any) => {\n    setLoading(true);\n    try {\n      const res = await axios.post('/auth/login', values);\n      localStorage.setItem('token', res.data.token);\n      localStorage.setItem('user', JSON.stringify(res.data.user));\n      setInitialState((s: any) => ({ ...s, user: res.data.user }));\n      message.success('Đăng nhập thành công!');\n      \n      if (res.data.user.role === 'ADMIN') {\n        history.push('/admin/dashboard');\n      } else {\n        history.push('/student/equipments');\n      }\n    } catch (error) {\n      // Error is handled in axios interceptor\n    } finally {\n      setLoading(false);\n    }\n  };\n\n  const onRegister = async (values: any) => {\n    setLoading(true);\n    try {\n      await axios.post('/auth/register', { ...values, role: 'STUDENT' });\n      message.success('Đăng ký thành công, vui lòng đăng nhập!');\n      setActiveTab('login');\n    } catch (error) {\n    } finally {\n      setLoading(false);\n    }\n  };\n\n  return (\n    <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh', background: '#f0f2f5' }}>\n      <Card style={{ width: 400, boxShadow: '0 4px 12px rgba(0,0,0,0.1)' }}>\n        <h2 style={{ textAlign: 'center', marginBottom: 24 }}>Hệ Thống Quản Lý Thiết Bị</h2>\n        <Tabs activeKey={activeTab} onChange={setActiveTab} centered>\n          <Tabs.TabPane tab=\"Đăng Nhập\" key=\"login\">\n            <Form name=\"login\" onFinish={onLogin} size=\"large\">\n              <Form.Item name=\"email\" rules={[{ required: true, message: 'Vui lòng nhập email!' }, { type: 'email', message: 'Email không hợp lệ!' }]}>\n                <Input prefix={<MailOutlined />} placeholder=\"Email\" />\n              </Form.Item>\n              <Form.Item name=\"password\" rules={[{ required: true, message: 'Vui lòng nhập mật khẩu!' }]}>\n                <Input.Password prefix={<LockOutlined />} placeholder=\"Mật khẩu\" />\n              </Form.Item>\n              <Form.Item>\n                <Button type=\"primary\" htmlType=\"submit\" block loading={loading}>\n                  Đăng Nhập\n                </Button>\n              </Form.Item>\n            </Form>\n          </Tabs.TabPane>\n          <Tabs.TabPane tab=\"Đăng Ký\" key=\"register\">\n            <Form name=\"register\" onFinish={onRegister} size=\"large\">\n              <Form.Item name=\"fullName\" rules={[{ required: true, message: 'Vui lòng nhập họ tên!' }]}>\n                <Input prefix={<IdcardOutlined />} placeholder=\"Họ và Tên\" />\n              </Form.Item>\n              <Form.Item name=\"email\" rules={[{ required: true, message: 'Vui lòng nhập email!' }, { type: 'email', message: 'Email không hợp lệ!' }]}>\n                <Input prefix={<MailOutlined />} placeholder=\"Email\" />\n              </Form.Item>\n              <Form.Item name=\"password\" rules={[{ required: true, message: 'Vui lòng nhập mật khẩu!' }]}>\n                <Input.Password prefix={<LockOutlined />} placeholder=\"Mật khẩu\" />\n              </Form.Item>\n              <Form.Item>\n                <Button type=\"primary\" htmlType=\"submit\" block loading={loading}>\n                  Đăng Ký\n                </Button>\n              </Form.Item>\n            </Form>\n          </Tabs.TabPane>\n        </Tabs>\n      </Card>\n    </div>\n  );\n};\n\nexport default Login;\n",
+      "__content": "import React, { useState } from 'react';\nimport { Form, Input, Button, Card, Tabs, message, Select } from 'antd';\nimport { UserOutlined, LockOutlined, MailOutlined, IdcardOutlined } from '@ant-design/icons';\nimport { useModel, history } from '@umijs/max';\nimport axios from '@/utils/axios';\n\nconst Login: React.FC = () => {\n  const [activeTab, setActiveTab] = useState('login');\n  const [loading, setLoading] = useState(false);\n  const { setInitialState } = useModel('@@initialState');\n\n  const onLogin = async (values: any) => {\n    setLoading(true);\n    try {\n      const res = await axios.post('/auth/login', values);\n      localStorage.setItem('token', res.data.token);\n      localStorage.setItem('user', JSON.stringify(res.data.user));\n      setInitialState((s: any) => ({ ...s, user: res.data.user }));\n      message.success('Đăng nhập thành công!');\n      \n      if (res.data.user.role === 'ADMIN') {\n        history.push('/admin/dashboard');\n      } else {\n        history.push('/student/equipments');\n      }\n    } catch (error) {\n      // Error is handled in axios interceptor\n    } finally {\n      setLoading(false);\n    }\n  };\n\n  const onRegister = async (values: any) => {\n    setLoading(true);\n    try {\n      await axios.post('/auth/register', values);\n      message.success('Đăng ký thành công, vui lòng đăng nhập!');\n      setActiveTab('login');\n    } catch (error) {\n    } finally {\n      setLoading(false);\n    }\n  };\n\n  return (\n    <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh', background: '#f0f2f5' }}>\n      <Card style={{ width: 400, boxShadow: '0 4px 12px rgba(0,0,0,0.1)' }}>\n        <h2 style={{ textAlign: 'center', marginBottom: 24 }}>Hệ Thống Quản Lý Thiết Bị</h2>\n        <Tabs activeKey={activeTab} onChange={setActiveTab} centered>\n          <Tabs.TabPane tab=\"Đăng Nhập\" key=\"login\">\n            <Form name=\"login\" onFinish={onLogin} size=\"large\">\n              <Form.Item name=\"email\" rules={[{ required: true, message: 'Vui lòng nhập email!' }, { type: 'email', message: 'Email không hợp lệ!' }]}>\n                <Input prefix={<MailOutlined />} placeholder=\"Email\" />\n              </Form.Item>\n              <Form.Item name=\"password\" rules={[{ required: true, message: 'Vui lòng nhập mật khẩu!' }]}>\n                <Input.Password prefix={<LockOutlined />} placeholder=\"Mật khẩu\" />\n              </Form.Item>\n              <Form.Item>\n                <Button type=\"primary\" htmlType=\"submit\" block loading={loading}>\n                  Đăng Nhập\n                </Button>\n              </Form.Item>\n            </Form>\n          </Tabs.TabPane>\n          <Tabs.TabPane tab=\"Đăng Ký\" key=\"register\">\n            <Form name=\"register\" onFinish={onRegister} size=\"large\">\n              <Form.Item name=\"fullName\" rules={[{ required: true, message: 'Vui lòng nhập họ tên!' }]}>\n                <Input prefix={<IdcardOutlined />} placeholder=\"Họ và Tên\" />\n              </Form.Item>\n              <Form.Item name=\"email\" rules={[{ required: true, message: 'Vui lòng nhập email!' }, { type: 'email', message: 'Email không hợp lệ!' }]}>\n                <Input prefix={<MailOutlined />} placeholder=\"Email\" />\n              </Form.Item>\n              <Form.Item name=\"password\" rules={[{ required: true, message: 'Vui lòng nhập mật khẩu!' }]}>\n                <Input.Password prefix={<LockOutlined />} placeholder=\"Mật khẩu\" />\n              </Form.Item>\n              <Form.Item name=\"role\" initialValue=\"STUDENT\" rules={[{ required: true }]}>\n                <Select placeholder=\"Chọn vai trò\">\n                  <Select.Option value=\"STUDENT\">Sinh Viên</Select.Option>\n                  <Select.Option value=\"ADMIN\">Quản Trị Viên</Select.Option>\n                </Select>\n              </Form.Item>\n              <Form.Item>\n                <Button type=\"primary\" htmlType=\"submit\" block loading={loading}>\n                  Đăng Ký\n                </Button>\n              </Form.Item>\n            </Form>\n          </Tabs.TabPane>\n        </Tabs>\n      </Card>\n    </div>\n  );\n};\n\nexport default Login;\n",
       "__isJSFile": true,
       "__absFile": "E:/RIPT1307-02-2026-Nhom9-KTHP/frontend/src/pages/Login/index.tsx"
     },
@@ -3399,7 +3415,7 @@
       "parentId": "6",
       "id": "7",
       "absPath": "/admin/dashboard",
-      "__content": "import React, { useEffect, useState } from 'react';\nimport { Table, Card } from 'antd';\nimport axios from '@/utils/axios';\n\nconst Dashboard: React.FC = () => {\n  const [data, setData] = useState([]);\n  const [loading, setLoading] = useState(false);\n\n  useEffect(() => {\n    const fetchTopBorrowed = async () => {\n      setLoading(true);\n      try {\n        const res = await axios.get('/borrow/top-borrowed');\n        setData(res.data);\n      } finally {\n        setLoading(false);\n      }\n    };\n    fetchTopBorrowed();\n  }, []);\n\n  const columns = [\n    {\n      title: 'Tên thiết bị',\n      dataIndex: 'name',\n      key: 'name',\n    },\n    {\n      title: 'Số lượt mượn trong tháng',\n      dataIndex: 'borrowCount',\n      key: 'borrowCount',\n    },\n    {\n      title: 'Tổng số lượng',\n      dataIndex: 'totalQuantity',\n      key: 'totalQuantity',\n    },\n    {\n      title: 'Đang rảnh',\n      dataIndex: 'availableQuantity',\n      key: 'availableQuantity',\n    },\n  ];\n\n  return (\n    <div>\n      <Card title=\"Top Thiết Bị Được Mượn Nhiều Nhất Tháng\">\n        <Table columns={columns} dataSource={data} rowKey=\"id\" loading={loading} pagination={false} />\n      </Card>\n    </div>\n  );\n};\n\nexport default Dashboard;\n",
+      "__content": "import React, { useEffect, useState } from 'react';\nimport { Table, Card, Alert, List, Tag } from 'antd';\nimport axios from '@/utils/axios';\n\nconst Dashboard: React.FC = () => {\n  const [data, setData] = useState([]);\n  const [overdueRequests, setOverdueRequests] = useState([]);\n  const [loading, setLoading] = useState(false);\n\n  useEffect(() => {\n    const fetchData = async () => {\n      setLoading(true);\n      try {\n        const [topRes, borrowRes] = await Promise.all([\n          axios.get('/borrow/top-borrowed'),\n          axios.get('/borrow')\n        ]);\n        setData(topRes.data);\n        \n        // Filter overdue requests\n        const overdue = borrowRes.data.filter((r: any) => r.status === 'OVERDUE');\n        setOverdueRequests(overdue);\n      } finally {\n        setLoading(false);\n      }\n    };\n    fetchData();\n  }, []);\n\n  const columns = [\n    {\n      title: 'Tên thiết bị',\n      dataIndex: 'name',\n      key: 'name',\n    },\n    {\n      title: 'Số lượt mượn trong tháng',\n      dataIndex: 'borrowCount',\n      key: 'borrowCount',\n    },\n    {\n      title: 'Tổng số lượng',\n      dataIndex: 'totalQuantity',\n      key: 'totalQuantity',\n    },\n    {\n      title: 'Đang rảnh',\n      dataIndex: 'availableQuantity',\n      key: 'availableQuantity',\n    },\n  ];\n\n  return (\n    <div>\n      {overdueRequests.length > 0 && (\n        <Card title={<span style={{ color: 'red' }}>⚠️ Cảnh Báo: Các đơn mượn quá hạn chưa trả</span>} style={{ marginBottom: 24, border: '1px solid red' }}>\n          <List\n            itemLayout=\"horizontal\"\n            dataSource={overdueRequests}\n            renderItem={(item: any) => (\n              <List.Item>\n                <List.Item.Meta\n                  title={<strong>Thiết bị: {item.equipment?.name}</strong>}\n                  description={\n                    <div>\n                      <p style={{ margin: 0 }}>Sinh viên: {item.student?.fullName} ({item.student?.email})</p>\n                      <p style={{ margin: 0, color: 'red' }}>Hẹn trả: {new Date(item.returnDate).toLocaleDateString()}</p>\n                    </div>\n                  }\n                />\n                <Tag color=\"orange\">QUÁ HẠN</Tag>\n              </List.Item>\n            )}\n          />\n        </Card>\n      )}\n\n      <Card title=\"Top Thiết Bị Được Mượn Nhiều Nhất Tháng\">\n        <Table columns={columns} dataSource={data} rowKey=\"id\" loading={loading} pagination={false} />\n      </Card>\n    </div>\n  );\n};\n\nexport default Dashboard;\n",
       "__isJSFile": true,
       "__absFile": "E:/RIPT1307-02-2026-Nhom9-KTHP/frontend/src/pages/admin/Dashboard/index.tsx"
     },
@@ -3421,7 +3437,7 @@
       "parentId": "6",
       "id": "9",
       "absPath": "/admin/requests",
-      "__content": "import React, { useEffect, useState } from 'react';\nimport { Table, Button, Space, Tag, message } from 'antd';\nimport axios from '@/utils/axios';\n\nconst Requests: React.FC = () => {\n  const [requests, setRequests] = useState([]);\n  const [loading, setLoading] = useState(false);\n\n  const fetchRequests = async () => {\n    setLoading(true);\n    try {\n      const res = await axios.get('/borrow');\n      setRequests(res.data);\n    } finally {\n      setLoading(false);\n    }\n  };\n\n  useEffect(() => {\n    fetchRequests();\n  }, []);\n\n  const updateStatus = async (id: number, status: string) => {\n    try {\n      await axios.put(`/borrow/${id}/status`, { status });\n      message.success(`Đã cập nhật trạng thái thành ${status}`);\n      fetchRequests();\n    } catch (error) {}\n  };\n\n  const columns = [\n    {\n      title: 'Người mượn',\n      dataIndex: ['student', 'fullName'],\n      key: 'studentName',\n    },\n    {\n      title: 'Thiết bị',\n      dataIndex: ['equipment', 'name'],\n      key: 'equipmentName',\n    },\n    {\n      title: 'Ngày mượn',\n      dataIndex: 'borrowDate',\n      key: 'borrowDate',\n      render: (text: string) => new Date(text).toLocaleDateString(),\n    },\n    {\n      title: 'Ngày trả dự kiến',\n      dataIndex: 'returnDate',\n      key: 'returnDate',\n      render: (text: string) => new Date(text).toLocaleDateString(),\n    },\n    {\n      title: 'Trạng thái',\n      dataIndex: 'status',\n      key: 'status',\n      render: (status: string) => {\n        let color = 'default';\n        if (status === 'APPROVED') color = 'blue';\n        if (status === 'REJECTED') color = 'red';\n        if (status === 'RETURNED') color = 'green';\n        if (status === 'OVERDUE') color = 'orange';\n        return <Tag color={color}>{status}</Tag>;\n      },\n    },\n    {\n      title: 'Hành động',\n      key: 'action',\n      render: (_: any, record: any) => {\n        if (record.status === 'PENDING') {\n          return (\n            <Space size=\"middle\">\n              <Button type=\"primary\" onClick={() => updateStatus(record.id, 'APPROVED')}>Duyệt</Button>\n              <Button danger onClick={() => updateStatus(record.id, 'REJECTED')}>Từ chối</Button>\n            </Space>\n          );\n        }\n        if (record.status === 'APPROVED' || record.status === 'OVERDUE') {\n          return (\n            <Button type=\"primary\" style={{ background: 'green' }} onClick={() => updateStatus(record.id, 'RETURNED')}>\n              Xác nhận Đã trả\n            </Button>\n          );\n        }\n        return null;\n      },\n    },\n  ];\n\n  return (\n    <div>\n      <h2>Quản Lý Yêu Cầu Mượn Đồ</h2>\n      <Table columns={columns} dataSource={requests} rowKey=\"id\" loading={loading} />\n    </div>\n  );\n};\n\nexport default Requests;\n",
+      "__content": "import React, { useEffect, useState } from 'react';\nimport { Table, Button, Space, Tag, message, Modal, Descriptions } from 'antd';\nimport axios from '@/utils/axios';\n\nconst Requests: React.FC = () => {\n  const [requests, setRequests] = useState([]);\n  const [loading, setLoading] = useState(false);\n  const [isModalVisible, setIsModalVisible] = useState(false);\n  const [selectedRequest, setSelectedRequest] = useState<any>(null);\n\n  const fetchRequests = async () => {\n    setLoading(true);\n    try {\n      const res = await axios.get('/borrow');\n      setRequests(res.data);\n    } finally {\n      setLoading(false);\n    }\n  };\n\n  useEffect(() => {\n    fetchRequests();\n  }, []);\n\n  const updateStatus = async (id: number, status: string) => {\n    try {\n      await axios.put(`/borrow/${id}/status`, { status });\n      message.success(`Đã cập nhật trạng thái thành ${status}`);\n      fetchRequests();\n      if (selectedRequest && selectedRequest.id === id) {\n        setIsModalVisible(false); // Close modal if open\n      }\n    } catch (error) {}\n  };\n\n  const showDetails = (record: any) => {\n    setSelectedRequest(record);\n    setIsModalVisible(true);\n  };\n\n  const columns = [\n    {\n      title: 'Người mượn',\n      dataIndex: ['student', 'fullName'],\n      key: 'studentName',\n    },\n    {\n      title: 'Thiết bị',\n      dataIndex: ['equipment', 'name'],\n      key: 'equipmentName',\n    },\n    {\n      title: 'Ngày mượn',\n      dataIndex: 'borrowDate',\n      key: 'borrowDate',\n      render: (text: string) => new Date(text).toLocaleDateString(),\n    },\n    {\n      title: 'Trạng thái',\n      dataIndex: 'status',\n      key: 'status',\n      render: (status: string) => {\n        let color = 'default';\n        if (status === 'APPROVED') color = 'blue';\n        if (status === 'REJECTED') color = 'red';\n        if (status === 'RETURNED') color = 'green';\n        if (status === 'OVERDUE') color = 'orange';\n        return <Tag color={color}>{status}</Tag>;\n      },\n    },\n    {\n      title: 'Hành động',\n      key: 'action',\n      render: (_: any, record: any) => {\n        return (\n          <Space size=\"middle\">\n            <Button onClick={() => showDetails(record)}>Xem chi tiết</Button>\n            {record.status === 'PENDING' && (\n              <>\n                <Button type=\"primary\" onClick={() => updateStatus(record.id, 'APPROVED')}>Duyệt</Button>\n                <Button danger onClick={() => updateStatus(record.id, 'REJECTED')}>Từ chối</Button>\n              </>\n            )}\n            {(record.status === 'APPROVED' || record.status === 'OVERDUE') && (\n              <Button type=\"primary\" style={{ background: 'green' }} onClick={() => updateStatus(record.id, 'RETURNED')}>\n                Xác nhận trả\n              </Button>\n            )}\n          </Space>\n        );\n      },\n    },\n  ];\n\n  return (\n    <div>\n      <h2>Quản Lý Yêu Cầu Mượn Đồ</h2>\n      <Table columns={columns} dataSource={requests} rowKey=\"id\" loading={loading} />\n\n      <Modal \n        title=\"Chi tiết yêu cầu mượn đồ\" \n        open={isModalVisible} \n        onCancel={() => setIsModalVisible(false)} \n        footer={null}\n        width={600}\n      >\n        {selectedRequest && (\n          <Descriptions bordered column={1}>\n            <Descriptions.Item label=\"Mã yêu cầu\">#{selectedRequest.id}</Descriptions.Item>\n            <Descriptions.Item label=\"Người mượn\">{selectedRequest.student?.fullName}</Descriptions.Item>\n            <Descriptions.Item label=\"Email liên hệ\">{selectedRequest.student?.email}</Descriptions.Item>\n            <Descriptions.Item label=\"Thiết bị mượn\">{selectedRequest.equipment?.name}</Descriptions.Item>\n            <Descriptions.Item label=\"Số lượng kho hiện tại\">{selectedRequest.equipment?.availableQuantity} / {selectedRequest.equipment?.totalQuantity}</Descriptions.Item>\n            <Descriptions.Item label=\"Ngày mượn\">{new Date(selectedRequest.borrowDate).toLocaleDateString()}</Descriptions.Item>\n            <Descriptions.Item label=\"Ngày hẹn trả\">{new Date(selectedRequest.returnDate).toLocaleDateString()}</Descriptions.Item>\n            <Descriptions.Item label=\"Trạng thái hiện tại\">\n              <Tag color={\n                selectedRequest.status === 'APPROVED' ? 'blue' : \n                selectedRequest.status === 'REJECTED' ? 'red' : \n                selectedRequest.status === 'RETURNED' ? 'green' : \n                selectedRequest.status === 'OVERDUE' ? 'orange' : 'default'\n              }>{selectedRequest.status}</Tag>\n            </Descriptions.Item>\n          </Descriptions>\n        )}\n        <div style={{ marginTop: 16, display: 'flex', justifyContent: 'flex-end', gap: 8 }}>\n          {selectedRequest?.status === 'PENDING' && (\n            <>\n              <Button danger onClick={() => updateStatus(selectedRequest.id, 'REJECTED')}>Từ chối</Button>\n              <Button type=\"primary\" onClick={() => updateStatus(selectedRequest.id, 'APPROVED')}>Duyệt yêu cầu</Button>\n            </>\n          )}\n          {(selectedRequest?.status === 'APPROVED' || selectedRequest?.status === 'OVERDUE') && (\n            <Button type=\"primary\" style={{ background: 'green' }} onClick={() => updateStatus(selectedRequest.id, 'RETURNED')}>\n              Xác nhận Đã trả\n            </Button>\n          )}\n        </div>\n      </Modal>\n    </div>\n  );\n};\n\nexport default Requests;\n",
       "__isJSFile": true,
       "__absFile": "E:/RIPT1307-02-2026-Nhom9-KTHP/frontend/src/pages/admin/Requests/index.tsx"
     },
@@ -3469,7 +3485,9 @@
   "globalJS": [],
   "overridesCSS": [],
   "bundler": "webpack",
-  "git": {},
+  "git": {
+    "originUrl": "https://github.com/DucBao-218/RIPT1307-02-2026-Nh-m09-KTHP.git"
+  },
   "framework": "react",
   "typescript": {
     "tsVersion": "5.9.3",

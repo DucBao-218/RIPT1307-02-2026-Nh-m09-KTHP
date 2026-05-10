@@ -64,6 +64,29 @@ export const updateBorrowStatus = async (req: Request, res: Response) => {
           data: { availableQuantity: { decrement: 1 } }
         })
       ]);
+
+      // Send email logic (mock)
+      const student = await prisma.user.findUnique({ where: { id: borrowRequest.studentId } });
+      if (student) {
+        const nodemailer = require('nodemailer');
+        const transporter = nodemailer.createTransport({
+          host: 'smtp.ethereal.email',
+          port: 587,
+          auth: {
+            user: 'ethereal.user@ethereal.email', // Replace with real credentials in production
+            pass: 'ethereal_password'
+          }
+        });
+        
+        const mailOptions = {
+          from: '"CLB Admin" <admin@clb.com>',
+          to: student.email,
+          subject: 'Xác nhận: Yêu cầu mượn đồ đã được duyệt',
+          text: `Chào ${student.fullName},\n\nYêu cầu mượn thiết bị "${borrowRequest.equipment.name}" của bạn đã được duyệt.\nVui lòng trả thiết bị đúng hạn vào ngày ${new Date(borrowRequest.returnDate).toLocaleDateString()}.\n\nCảm ơn bạn!`
+        };
+
+        transporter.sendMail(mailOptions).catch(console.error);
+      }
     } else if (status === 'RETURNED' && borrowRequest.status === 'APPROVED') {
       // Return logic
       await prisma.$transaction([
